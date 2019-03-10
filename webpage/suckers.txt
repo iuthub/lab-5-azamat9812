@@ -1,0 +1,4 @@
+Azamat;002;132432432423423;mastercard
+Davron;002;3453656345;visa
+Aleksey;003;4353645634634;mastercard
+Kamila;001;32536456345345435;mastercard
